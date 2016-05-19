@@ -24,7 +24,7 @@
     "url": "https://github.com/NextStepWebs/codemirror-spell-checker/issues"
   },
   "dependencies": {
-    "codemirror": "codemirror/CodeMirror",
+    "codemirror": "codemirror@5.14.2",
     "gulp": "*",
     "gulp-concat": "*",
     "gulp-header": "*",
