@@ -1,6 +1,6 @@
 {
   "name": "codemirror-spell-checker",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Dead-simple spell checking in CodeMirror.",
   "keywords": [
     "codemirror",
@@ -24,7 +24,7 @@
     "url": "https://github.com/NextStepWebs/codemirror-spell-checker/issues"
   },
   "dependencies": {
-    "codemirror": "codemirror@5.14.2",
+    "codemirror": "^5.10.0",
     "gulp": "*",
     "gulp-concat": "*",
     "gulp-header": "*",
